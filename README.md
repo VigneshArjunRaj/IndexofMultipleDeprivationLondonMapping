@@ -98,7 +98,7 @@ The project offers the following interactive widgets:
    - **Description**: It evaluates the quality of the physical environment and living conditions, offering insights into urban development and infrastructure. A higher score indicates greater levels of living environment-related disadvantage.
 
 9. **Other Scores Widget**:
-   - **lsoa11nm, cypscore, asscore, gbscore, wbscore, indscore, outscore**: These are various other scores associated with specific regions (Brent 010E, Brent 021A, Brent 021B, Brent 021D in this context). Each score likely represents a different aspect or indicator relevant to the region.
+   - **lsoa11nm, cypscore, asscore, gbscore, wbscore, indscore, outscore**: These are various other scores. Each score likely represents a different aspect or indicator relevant to the region.
 
 
 ## Contributing
